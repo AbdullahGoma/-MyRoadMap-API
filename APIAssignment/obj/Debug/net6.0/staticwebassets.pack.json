@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "F:\\ITI-Course\\7- Web API\\APIAssignment\\wwwroot\\ConsumerHTML.html",
+      "PackagePath": "staticwebassets\\ConsumerHTML.html"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.APIAssignment.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.APIAssignment.props",
+      "PackagePath": "build\\APIAssignment.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.APIAssignment.props",
+      "PackagePath": "buildMultiTargeting\\APIAssignment.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.APIAssignment.props",
+      "PackagePath": "buildTransitive\\APIAssignment.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

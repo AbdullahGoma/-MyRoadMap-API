@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "6y7yEUlZFHcP1Brt+HtTtLpQS6BEKidxR4bySTS9th0=",
+  "Source": "APIAssignment",
+  "BasePath": "_content/APIAssignment",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "APIAssignment\\wwwroot",
+      "Source": "APIAssignment",
+      "ContentRoot": "F:\\ITI-Course\\7- Web API\\APIAssignment\\wwwroot\\",
+      "BasePath": "_content/APIAssignment",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "F:\\ITI-Course\\7- Web API\\APIAssignment\\wwwroot\\ConsumerHTML.html",
+      "SourceId": "APIAssignment",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\ITI-Course\\7- Web API\\APIAssignment\\wwwroot\\",
+      "BasePath": "_content/APIAssignment",
+      "RelativePath": "ConsumerHTML.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ConsumerHTML.html"
+    }
+  ]
+}

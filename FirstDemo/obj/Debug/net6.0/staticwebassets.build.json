@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "+acQflFOYVAaeHiag4T5K2hkJP/zG82zF1SYNFsoSzw=",
+  "Source": "FirstDemo",
+  "BasePath": "_content/FirstDemo",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "FirstDemo\\wwwroot",
+      "Source": "FirstDemo",
+      "ContentRoot": "F:\\ITI-Course\\7- Web API\\FirstDemo\\wwwroot\\",
+      "BasePath": "_content/FirstDemo",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "F:\\ITI-Course\\7- Web API\\FirstDemo\\wwwroot\\ConsumerHTML.html",
+      "SourceId": "FirstDemo",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\ITI-Course\\7- Web API\\FirstDemo\\wwwroot\\",
+      "BasePath": "_content/FirstDemo",
+      "RelativePath": "ConsumerHTML.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ConsumerHTML.html"
+    }
+  ]
+}
